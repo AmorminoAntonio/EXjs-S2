@@ -570,6 +570,7 @@ const area = function (l1, l2) {
   return l1 * l2;
 };
 const areaResult = area(3, 4);
+
 console.log(areaResult);
 
 /* ESERCIZIO 2
